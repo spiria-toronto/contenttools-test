@@ -45,7 +45,6 @@ group :development do
   gem 'spring'
 end
 
-# gem "contenttools-rails", :path => "/Users/zych/Programming/contenttools-rails"
-gem 'contenttools-rails', '~> 2016.03.20'
+gem 'contenttools-rails', '~> 1.2.4'
 
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
